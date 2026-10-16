@@ -1,0 +1,94 @@
+{
+  "id": 73,
+  "date": "2018-10-23T08:32:35",
+  "date_gmt": "2018-10-23T08:32:35",
+  "guid": {
+    "rendered": "https://futuriodemos.com/default-demo/?page_id=72"
+  },
+  "modified": "2018-10-23T08:32:35",
+  "modified_gmt": "2018-10-23T08:32:35",
+  "slug": "contact",
+  "status": "publish",
+  "type": "page",
+  "link": "https://zewditumeshesha.org/contact/",
+  "title": {
+    "rendered": "Contact"
+  },
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-post\" data-elementor-id=\"73\" class=\"elementor elementor-73 elementor-bc-flex-widget\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-3d53e194 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default\" data-id=\"3d53e194\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-100d57f1\" data-id=\"100d57f1\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-441c0160 elementor-widget elementor-widget-google_maps\" data-id=\"441c0160\" data-element_type=\"widget\" data-widget_type=\"google_maps.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=18&#038;output=embed&#038;iwloc=near\"\n\t\t\t\t\ttitle=\"London Eye, London, United Kingdom\"\n\t\t\t\t\taria-label=\"London Eye, London, United Kingdom\"\n\t\t\t></iframe>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-e418a57 elementor-section-stretched elementor-section-content-middle elementor-section-height-full elementor-section-boxed elementor-section-height-default elementor-section-items-middle\" data-id=\"e418a57\" data-element_type=\"section\" data-settings=\"{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-010629f elementor-invisible\" data-id=\"010629f\" data-element_type=\"column\" data-settings=\"{&quot;animation&quot;:&quot;slideInLeft&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-6cce9d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"6cce9d5\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9a08bc5\" data-id=\"9a08bc5\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-f81ab46 elementor-widget elementor-widget-heading\" data-id=\"f81ab46\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Contact Us</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-618df81 elementor-widget elementor-widget-text-editor\" data-id=\"618df81\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<div class=\"elementor-element elementor-element-292dd28 elementor-widget elementor-widget-spacer\" data-id=\"292dd28\" data-element_type=\"widget\" data-widget_type=\"spacer.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-spacer\">\n\t\t\t<div class=\"elementor-spacer-inner\"></div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-62af672 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"62af672\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d39fc83\" data-id=\"d39fc83\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-06bf052 elementor-widget elementor-widget-heading\" data-id=\"06bf052\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<span class=\"elementor-heading-title elementor-size-default\">Headquarter</span>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2e94180 elementor-widget elementor-widget-text-editor\" data-id=\"2e94180\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>29 Bakery Street<br />Florida<br />Tel: +2 6696 9456</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-efaa4c7\" data-id=\"efaa4c7\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-4d2918f elementor-widget elementor-widget-heading\" data-id=\"4d2918f\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<span class=\"elementor-heading-title elementor-size-default\">EU OFFICE</span>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-30d4b33 elementor-widget elementor-widget-text-editor\" data-id=\"30d4b33\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>569 Main Street<br />Netherlands<br />Tel: +695 6694 523</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<div class=\"elementor-element elementor-element-61e42a4 elementor-widget elementor-widget-spacer\" data-id=\"61e42a4\" data-element_type=\"widget\" data-widget_type=\"spacer.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<div class=\"elementor-spacer\">\n\t\t\t<div class=\"elementor-spacer-inner\"></div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t</div>\n\t\t",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Contact Us Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam ligula pede, sagittis quis, interdum ultricies, scelerisque eu. Headquarter 29 Bakery Street Florida Tel: +2 6696 9456 EU OFFICE 569 Main Street Netherlands Tel: +695 6694 523</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "footnotes": ""
+  },
+  "class_list": [
+    "post-73",
+    "page",
+    "type-page",
+    "status-publish",
+    "hentry"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/pages/73",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/comments?post=73"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/pages/73/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/media?parent=73"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

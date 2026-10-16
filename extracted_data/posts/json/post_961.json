@@ -1,0 +1,118 @@
+{
+  "id": 961,
+  "date": "2023-11-29T13:38:44",
+  "date_gmt": "2023-11-29T13:38:44",
+  "guid": {
+    "rendered": "http://zewditumeshesha.org/?p=961"
+  },
+  "modified": "2023-11-29T13:38:44",
+  "modified_gmt": "2023-11-29T13:38:44",
+  "slug": "%e1%8a%a5%e1%8a%93%e1%88%98%e1%88%b0%e1%8c%8d%e1%8a%93%e1%88%88%e1%8a%95",
+  "status": "publish",
+  "type": "post",
+  "link": "https://zewditumeshesha.org/2023/11/29/%e1%8a%a5%e1%8a%93%e1%88%98%e1%88%b0%e1%8c%8d%e1%8a%93%e1%88%88%e1%8a%95/",
+  "title": {
+    "rendered": "እናመሰግናለን"
+  },
+  "content": {
+    "rendered": "<p style=\"text-align: center;\">በ2016 ዓ.ም በዘመን መለወጫ በአል ለልጆቻችን በዘውዲቱ መሸሻ ሕፃናት ማሳደጊያ ማዕከል በመገኘት ኢትዮቴሌኮም 128,750ብር የገንዘብ ስጦታ ከማበርከቱም በላይ ለልጆቻችን የምሳ ግብዣ  በማድረግ የፍቅር ማዕድ አጋርተዋል እንዲሁም ለ2016 ዓ.ም የትምህርት የቁሳቁስ ድጋፍ አድርገውልናልናል<br />\nበሕፃናቱ ሥም እናመሰግናለን!!<br />\nኢትዮቴሌኮም እናመሰግናለን</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>በ2016 ዓ.ም በዘመን መለወጫ በአል ለልጆቻችን በዘውዲቱ መሸሻ ሕፃናት ማሳደጊያ ማዕከል በመገኘት ኢትዮቴሌኮም 128,750ብር የገንዘብ ስጦታ ከማበርከቱም በላይ ለልጆቻችን የምሳ ግብዣ  በማድረግ የፍቅር ማዕድ አጋርተዋል እንዲሁም ለ2016 ዓ.ም የትምህርት የቁሳቁስ ድጋፍ አድርገውልናልናል በሕፃናቱ ሥም እናመሰግናለን!! ኢትዮቴሌኮም እናመሰግናለን</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "class_list": [
+    "post-961",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "hentry",
+    "category-uncategorized"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/961",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/comments?post=961"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/961/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 962,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/961/revisions/962"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/media?parent=961"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/categories?post=961"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags?post=961"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

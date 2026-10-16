@@ -1,0 +1,125 @@
+{
+  "id": 911,
+  "date": "2022-02-26T06:39:05",
+  "date_gmt": "2022-02-26T06:39:05",
+  "guid": {
+    "rendered": "http://zewditumeshesha.org/?p=911"
+  },
+  "modified": "2022-02-26T06:43:06",
+  "modified_gmt": "2022-02-26T06:43:06",
+  "slug": "%e1%8a%a5%e1%8a%95%e1%8a%b3%e1%8a%95-%e1%8b%b0%e1%88%b5-%e1%8a%a0%e1%88%8b%e1%89%bd%e1%88%81",
+  "status": "publish",
+  "type": "post",
+  "link": "https://zewditumeshesha.org/2022/02/26/%e1%8a%a5%e1%8a%95%e1%8a%b3%e1%8a%95-%e1%8b%b0%e1%88%b5-%e1%8a%a0%e1%88%8b%e1%89%bd%e1%88%81/",
+  "title": {
+    "rendered": "እንኳን ደስ አላችሁ!"
+  },
+  "content": {
+    "rendered": "<p>እማማ ዘውዲቱ አንድ ተጨማሪ ልጅ በስርዓተ ቤተክርስቲያን ዳሩ<br />\nእማማ ዘውዲቱ በግቢያቸው ከዚህ በፊት 22 ልጆችን ድረው የነበረ ሲሆን ይህ አሁን የዳሩት ልቻቸው እንዳልካቸው መኮንን 23 ሆኖ የተዳረ ነው</p>\n<p><a href=\"http://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-914\" src=\"http://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1-300x254.jpg\" alt=\"\" width=\"300\" height=\"254\" srcset=\"https://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1-300x254.jpg 300w, https://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1-768x650.jpg 768w, https://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1-24x20.jpg 24w, https://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1-36x30.jpg 36w, https://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1-48x41.jpg 48w, https://zewditumeshesha.org/wp-content/uploads/2022/02/photo_2022-02-26_09-38-28-1.jpg 960w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>እማማ ዘውዲቱ አንድ ተጨማሪ ልጅ በስርዓተ ቤተክርስቲያን ዳሩ እማማ ዘውዲቱ በግቢያቸው ከዚህ በፊት 22 ልጆችን ድረው የነበረ ሲሆን ይህ አሁን የዳሩት ልቻቸው እንዳልካቸው መኮንን 23 ሆኖ የተዳረ ነው</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 916,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    3
+  ],
+  "tags": [],
+  "class_list": [
+    "post-911",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/911",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/comments?post=911"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/911/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 915,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/911/revisions/915"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/media/916"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/media?parent=911"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/categories?post=911"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags?post=911"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
