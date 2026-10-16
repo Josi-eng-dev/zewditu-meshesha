@@ -1,0 +1,222 @@
+[
+  {
+    "id": 4,
+    "count": 0,
+    "description": "",
+    "link": "https://zewditumeshesha.org/tag/tag1/",
+    "name": "tag1",
+    "slug": "tag1",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags/4",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts?tags=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 0,
+    "description": "",
+    "link": "https://zewditumeshesha.org/tag/tag2/",
+    "name": "tag2",
+    "slug": "tag2",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags/5",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts?tags=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 0,
+    "description": "",
+    "link": "https://zewditumeshesha.org/tag/tag3/",
+    "name": "tag3",
+    "slug": "tag3",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts?tags=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 0,
+    "description": "",
+    "link": "https://zewditumeshesha.org/tag/tag4/",
+    "name": "tag4",
+    "slug": "tag4",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags/7",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts?tags=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "count": 0,
+    "description": "",
+    "link": "https://zewditumeshesha.org/tag/tag5/",
+    "name": "tag5",
+    "slug": "tag5",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags/8",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts?tags=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

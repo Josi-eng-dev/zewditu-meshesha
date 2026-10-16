@@ -1,0 +1,125 @@
+{
+  "id": 1028,
+  "date": "2025-01-02T15:55:05",
+  "date_gmt": "2025-01-02T15:55:05",
+  "guid": {
+    "rendered": "http://zewditumeshesha.org/?p=1028"
+  },
+  "modified": "2025-01-02T16:08:27",
+  "modified_gmt": "2025-01-02T16:08:27",
+  "slug": "1028",
+  "status": "publish",
+  "type": "post",
+  "link": "https://zewditumeshesha.org/2025/01/02/1028/",
+  "title": {
+    "rendered": "Proposal for Vehicle Support"
+  },
+  "content": {
+    "rendered": "<p>Proposal for Vehicle Support by Zewditu Mesheha Children and Family Welfare Development Association</p>\n<p><a href=\"http://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-1037\" src=\"http://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1-232x300.jpg\" alt=\"\" width=\"232\" height=\"300\" srcset=\"https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1-232x300.jpg 232w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1-791x1024.jpg 791w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1-768x994.jpg 768w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1-19x24.jpg 19w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1-28x36.jpg 28w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1-37x48.jpg 37w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-52-1.jpg 989w\" sizes=\"(max-width: 232px) 100vw, 232px\" /></a> <a href=\"http://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1.jpg\"><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-1036\" src=\"http://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1-232x300.jpg\" alt=\"\" width=\"232\" height=\"300\" srcset=\"https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1-232x300.jpg 232w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1-791x1024.jpg 791w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1-768x994.jpg 768w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1-19x24.jpg 19w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1-28x36.jpg 28w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1-37x48.jpg 37w, https://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-43-59-1.jpg 989w\" sizes=\"(max-width: 232px) 100vw, 232px\" /></a></p>\n<p><a href=\"http://zewditumeshesha.org/wp-content/uploads/2025/01/photo_2025-01-02_18-44-03.jpg\"> </a></p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Proposal for Vehicle Support by Zewditu Mesheha Children and Family Welfare Development Association   &nbsp;</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 1035,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+    "footnotes": ""
+  },
+  "categories": [
+    3
+  ],
+  "tags": [],
+  "class_list": [
+    "post-1028",
+    "post",
+    "type-post",
+    "status-publish",
+    "format-standard",
+    "has-post-thumbnail",
+    "hentry",
+    "category-news"
+  ],
+  "_links": {
+    "self": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/1028",
+        "targetHints": {
+          "allow": [
+            "GET"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/comments?post=1028"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 7,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/1028/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 1039,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/posts/1028/revisions/1039"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/media/1035"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/media?parent=1028"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/categories?post=1028"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://zewditumeshesha.org/wp-json/wp/v2/tags?post=1028"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

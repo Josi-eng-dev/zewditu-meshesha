@@ -1,0 +1,29 @@
+{
+  "site_name": "Zewditu Meshesha Children and Family Welfare and Development Association",
+  "description": "ዘውዲቱ መሻሻ የሕፃናትና ቤተሰብ በጎ አድራጎትና ልማት ማህበር",
+  "site_url": "https://zewditumeshesha.org",
+  "extracted_at": "2026-10-16T21:40:00Z",
+  "extraction_target_folder": "extracted_data",
+  "statistics": {
+    "total_posts": 30,
+    "total_pages": 17,
+    "core_production_pages": 9,
+    "sample_template_pages": 8,
+    "total_categories": 4,
+    "total_tags": 5,
+    "total_media_items": 400,
+    "media_mime_breakdown": {
+      "image/jpeg": 387,
+      "image/png": 9,
+      "application/pdf": 2,
+      "application/docx": 1,
+      "video/mp4": 1
+    }
+  },
+  "key_assets": {
+    "pledge_form_pdf": "https://zewditumeshesha.org/wp-content/uploads/2026/03/የተስፋ-ሰነድ_Pledge-Form.pdf",
+    "pledge_form_docx": "https://zewditumeshesha.org/wp-content/uploads/2026/03/የተስፋ-ሰነድ_Pledge-Form.docx",
+    "site_logo": "https://zewditumeshesha.org/wp-content/uploads/2021/11/g2.png",
+    "site_icon": "https://zewditumeshesha.org/wp-content/uploads/2021/11/cropped-g2.png"
+  }
+}
