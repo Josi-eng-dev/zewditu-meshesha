@@ -4,62 +4,57 @@
 
 This directory contains the discovery and audit of the existing Zewditu Meshesha public digital presence.
 
-The audit is the foundation for the full product rebuild.
+The audit is the foundation for the MVP public website rebuild. It documents what currently exists on `https://zewditumeshesha.org/` and what remains unknown.
 
-## Audit Scope
+## Evidence sources
 
-We will document:
+| Source | Role |
+| --- | --- |
+| Live site (public) | Source of discovery at extraction time |
+| `extracted_data/` | Structured extraction (pages, posts, media, metadata) dated October 2026 |
+| `extracted_data/audit_documentation/` | First-pass inventories produced during extraction |
+| `docs/audit/` (this folder) | Reconciled, project-canonical audit set |
 
-1. Existing pages
-2. Existing URLs
-3. Existing content
-4. Existing functionality
-5. Forms
-6. Media
-7. User journeys
-8. Current UX problems
-9. Technical observations
-10. Unknown requirements
-11. External services
-12. SEO considerations
-13. Accessibility considerations
-14. Migration considerations
+Prefer this folder for project decisions. Keep `extracted_data/` unchanged as raw evidence.
 
 ## Rule
 
-The audit documents what currently exists.
+Distinguish:
 
-It must distinguish between:
+- **Verified** — observed in extraction artifacts or live public responses recorded in inventory
+- **Observation** — inferred from structure or content patterns without organizational confirmation
+- **Assumption** — working hypothesis; not a fact
+- **Unknown** — not verified; see `10-unknowns.md`
+- **Proposal** — intended future behavior for the rebuild (not current-site fact)
 
-* Verified facts
-* Observations
-* Assumptions
-* Unknown information
-* Proposed future behavior
+Do not invent organizational facts, donation details, contact channels, or media permissions.
 
-Do not treat assumptions as facts.
+## Audit documents
 
-## Audit Documents
+| Document | Purpose | Status |
+| --- | --- | --- |
+| `01-current-website.md` | Overall current-state description | Updated |
+| `02-page-inventory.md` | All discovered pages | Reconciled from extraction |
+| `03-url-inventory.md` | URL and route inventory | Reconciled from extraction |
+| `04-content-inventory.md` | Existing organizational content | Reconciled; claims flagged |
+| `05-functionality-inventory.md` | Existing functionality | Written from extraction evidence |
+| `06-media-inventory.md` | Images and other media | Reconciled from extraction |
+| `07-user-journeys.md` | Visitor journeys (current + MVP intent) | Written |
+| `08-current-problems.md` | Problems and opportunities | Written |
+| `09-technical-observations.md` | Technical findings + Git baseline | Written |
+| `10-unknowns.md` | Questions awaiting confirmation | Written |
+| `11-audit-summary.md` | Consolidated findings and exit criteria | Updated |
 
-| Document                        | Purpose                                |
-| ------------------------------- | -------------------------------------- |
-| `01-current-website.md`         | Overall current-state description      |
-| `02-page-inventory.md`          | All discovered pages                   |
-| `03-url-inventory.md`           | URL and route inventory                |
-| `04-content-inventory.md`       | Existing organizational content        |
-| `05-functionality-inventory.md` | Existing functionality                 |
-| `06-media-inventory.md`         | Images and other media                 |
-| `07-user-journeys.md`           | Current and expected user journeys     |
-| `08-current-problems.md`        | Problems and improvement opportunities |
-| `09-technical-observations.md`  | Technical observations                 |
-| `10-unknowns.md`                | Information we still need              |
-| `11-audit-summary.md`           | Final audit summary                    |
+## Related docs
 
-## Audit Status
+- Project snapshot: [`docs/CURRENT-STATE.md`](../CURRENT-STATE.md)
+- Implementation roadmap: [`docs/IMPLEMENTATION-PLAN.md`](../IMPLEMENTATION-PLAN.md)
+- MVP requirements: [`docs/product/mvp-requirements.md`](../product/mvp-requirements.md)
 
-**Status:** In Progress
+## Audit status
 
-**Start:** 2026-09-28
+**Status:** Phase 0 documentation package completed for handoff review  
+**Start:** 2026-09-28  
+**Reconciled:** 2026-10-21  
 
-**Target:** Complete before product architecture is finalized.
-
+**Exit gate:** Organization/product owner reviews `11-audit-summary.md` and open items in `10-unknowns.md` before implementation coding begins.

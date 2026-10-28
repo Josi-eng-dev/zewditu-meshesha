@@ -1,0 +1,10 @@
+:root {
+  --color-paper: #f3efe6;
+  --color-wash: #e7efe8;
+  --color-ink: #1c2b24;
+  --color-muted: #4d5c55;
+  --color-line: #c5d0c8;
+  --color-accent: #1f6b4a;
+  --font-display: 'Fraunces', 'Palatino Linotype', Palatino, serif;
+  --font-body: 'Source Sans 3', 'Segoe UI', sans-serif;
+}
